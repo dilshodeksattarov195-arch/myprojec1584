@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersncrypt",
+        "uuid": 3074544,
+        "checksum": "zd3e3p"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
